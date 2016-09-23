@@ -12,7 +12,6 @@ is dit een grappig plaatje?
 
 snap je hem? hotdog
 
-
 ![grappig](hotdog.jpg)
 
 doei 
