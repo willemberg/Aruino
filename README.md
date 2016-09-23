@@ -1,7 +1,7 @@
 # hallo ik ben willem 
 
 
-ik houd veel van minecraft
+ik houd veel van minecraft.
 Aanvallen!!!
 
 ![minecraft](minecraft.jpg)
