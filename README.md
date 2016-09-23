@@ -3,7 +3,7 @@
 
 ik houd veel van minecraft
 
-![minecraft](minecraft)
+![minecraft](minecraft.jpg)
 
 ik heb een vraag:hoe heet de arduino met HDMI output?
 
