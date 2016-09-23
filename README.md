@@ -11,7 +11,9 @@ is dit een grappig plaatje?
 ![grappig plaatje](funny-pictures-676672_1280.jpg)
 
 snap je hem? hotdog
-![hotdog](hotdog.jpg)
+
+
+![grappig](hotdog.jpg)
 
 doei 
 
