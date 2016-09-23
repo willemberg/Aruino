@@ -1,12 +1,13 @@
-# Hallo
+# hallo ik ben willem 
 
-Ik ben op de Arduino cursus.
 
-Dit is de colde van blink:
+ik houd veel van minecraft
 
-```
-void setuo()
-{
+ik heb een vraag:hoe heet de arduino met HDMI output?
 
-}
-```
+
+
+doei 
+
+
+groetjes willem
