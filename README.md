@@ -8,7 +8,7 @@ ik houd veel van minecraft
 ik heb een vraag:hoe heet de arduino met HDMI output?
 
 is dit een grappig plaatje?
-[grappig plaatje](grappign plaatje.htm)
+[grappig plaatje](funny pictures)
 
 doei 
 
