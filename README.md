@@ -16,7 +16,7 @@ snap je hem? hotdog
 
 
 zie deze creeper
-[creeper](creeper.jpg)
+![creeper](creeper.jpg)
 
 doei 
 
