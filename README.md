@@ -17,7 +17,7 @@ snap je hem? hotdog
 
 
 HALLO!
-![paard](paardmans.jpg) 
+![GIENIG](paardmans.jpg) 
 
 
 hallo!
