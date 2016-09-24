@@ -16,7 +16,7 @@ snap je hem? hotdog
 ![grappig](hotdog.jpg)
 
 
-hoi
+HALLO!
 ![paard](Paardmans.jpg) 
 
 
