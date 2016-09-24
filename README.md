@@ -15,6 +15,10 @@ snap je hem? hotdog
 
 ![grappig](hotdog.jpg)
 
+hallo!
+![das](meneer das.jpg)
+
+
 hoi
 ![katje](bije kat.jpg)
 
