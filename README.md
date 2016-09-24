@@ -16,8 +16,20 @@ snap je hem? hotdog
 ![grappig](hotdog.jpg)
 
 
+
+
+
+
+
 HALLO!
 ![paardje](paardmans.jpg) 
+
+
+
+
+
+
+
 
 
 hallo!
