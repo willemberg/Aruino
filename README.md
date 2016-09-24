@@ -17,17 +17,8 @@ snap je hem? hotdog
 
 
 
-
-
-
-
-HALLO!
-![paardje](paardmans.jpg) 
-
-
-
-
-
+Hallo!
+![neushoorn](mr neushoorn.jpg)
 
 
 
