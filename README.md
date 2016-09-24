@@ -16,7 +16,7 @@ snap je hem? hotdog
 ![grappig](hotdog.jpg)
 
 hoi
-![katje](bije kat)
+![katje](bije kat.jpg)
 
 
 zie deze creeper
