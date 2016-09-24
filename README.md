@@ -6,7 +6,7 @@ Aanvallen!!!
 
 ![minecraft](minecraft.jpg)
 
-ik heb een vraag:hoe heet de arduino met HDMI output?
+#ik heb een vraag:hoe heet de arduino met HDMI output?
 
 is dit een grappig plaatje?
 ![grappig plaatje](funny-pictures-676672_1280.jpg)
