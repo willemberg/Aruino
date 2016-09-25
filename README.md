@@ -1,5 +1,5 @@
 # hallo ik ben wilem
-
+/../
 
 ik houd veel van minecraft.
 Aanvallen!!!
@@ -7,7 +7,10 @@ Aanvallen!!!
 ![minecraft](minecraft.jpg)
 
 
-![bass nummer!](Major-lazer Cold Water ) (feat Justin Bieber & M0)(Offical Music vodieo).mp3
+![bass nummer!](Major-lazer Cold Water ) (feat Justin Bieber & M0)(Offical Music vodieo).mp3kopie
+
+
+
 
 
 
