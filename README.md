@@ -1,5 +1,5 @@
 # hallo ik ben wilem
-/../
+
 
 ik houd veel van minecraft.
 Aanvallen!!!
