@@ -1,6 +1,4 @@
-# hallo ik ben willem 
-
-#ik heb een vraag:hoe heet de arduino met HDMI output?
+# hallo ik ben wilem
 
 
 ik houd veel van minecraft.
@@ -8,6 +6,8 @@ Aanvallen!!!
 
 ![minecraft](minecraft.jpg)
 
+
+![bass nummer!](https://youtu.be/a59gmGkq_pw.mp3)
 
 
 
@@ -22,8 +22,6 @@ snap je hem? hotdog
 
 
 
-hallo!
-![das](meneer das.jpg)
 
 
 hoi
