@@ -10,7 +10,7 @@ Aanvallen!!!
 
 ![minecraft](minecraft.jpg)
 
-zie dan deze creeper.# Grrrr
+zie dan deze creeper. #Grrrr
 ![creeper](creeper.jpg)
 
 
