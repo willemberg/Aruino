@@ -22,8 +22,7 @@ Aanvallen!!!
 #Huh?
 ![grappig plaatje](funny-pictures-676672_1280.jpg)
 
-snap je hem? hotdog
-
+#hallo! ik ben een hotdog
 ![grappig](hotdog.jpg)
 
 
