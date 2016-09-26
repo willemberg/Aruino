@@ -19,7 +19,7 @@ Aanvallen!!!
 
 
 
-is dit een grappig plaatje?
+#Huh?
 ![grappig plaatje](funny-pictures-676672_1280.jpg)
 
 snap je hem? hotdog
