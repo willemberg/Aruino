@@ -6,8 +6,9 @@ Aanvallen!!!
 
 ![minecraft](minecraft.jpg)
 
+zie deze creeper. Grrrr
+![creeper](creeper.jpg)
 
-![bass nummer!](Major-lazer Cold Water ) (feat Justin Bieber & M0)(Offical Music vodieo).mp3kopie
 
 
 
@@ -31,8 +32,7 @@ hoi
 ![katje](bije kat.jpg)
 
 
-zie deze creeper. Grrrr
-![creeper](creeper.jpg)
+
 
 doei 
 
