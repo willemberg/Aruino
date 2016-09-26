@@ -1,6 +1,10 @@
 # hallo ik ben wilem
 
 
+hoi
+![katje](bije kat.jpg)
+
+
 ik houd veel van minecraft.
 Aanvallen!!!
 
@@ -28,8 +32,7 @@ snap je hem? hotdog
 
 
 
-hoi
-![katje](bije kat.jpg)
+
 
 
 
