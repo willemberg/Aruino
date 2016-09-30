@@ -4,8 +4,7 @@
 hoi
 ![katje](bije kat.jpg)
 
-#zie deze hamster!
-![hamster](sterk!!.jpg)
+
 
 ik houd veel van minecraft.
 Aanvallen!!!
