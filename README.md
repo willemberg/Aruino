@@ -4,7 +4,6 @@
 hoi
 ![katje](bije kat.jpg)
 
-![mimi](Minion Mimecraft.jpg)
 
 ik houd veel van minecraft.
 Aanvallen!!!
