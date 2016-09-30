@@ -22,7 +22,7 @@ Aanvallen!!!
 #Huh?
 ![grappig plaatje](funny-pictures-676672_1280.jpg)
 
-![help](dood.jpg)
+
 
 
 
