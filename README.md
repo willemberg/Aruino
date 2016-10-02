@@ -20,7 +20,7 @@ het was moeilijk maar gelukt
 en blink
 ![heeeeeeeeeeeeeeeeeeeeeeeel makkelijk](makkelijkste_programma.ino)
 en het schema
-![blink](b.ino)
+![blink](b.jpg)
 
 
 #Huh?
