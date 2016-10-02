@@ -13,8 +13,8 @@ Aanvallen!!!
 #zie dan deze creeper. grrrr
 ![creeper](creeper.jpg)
 
-
-
+het was moeilijk maar gelukt
+![gelukt](blink_blink_blink)
 
 
 
