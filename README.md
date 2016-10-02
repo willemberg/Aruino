@@ -14,7 +14,7 @@ Aanvallen!!!
 ![creeper](creeper.jpg)
 
 het was moeilijk maar gelukt
-![gelukt](blink_blink_blink.ino)
+![gelukt](blink_blink_blink.jpg)
 
 
 
