@@ -33,8 +33,8 @@ en het schema
 dit is mijn type viedieo [minecraft](https://www.youtube.com/watch?v=DFIGhE4y78w)
 
 
-en mijn vavoriete nummer [bass](https://www.youtube.com/watch?v=a59gmGkq_pw)
-
+en mijn favoriete nummer: [BASS](https://www.youtube.com/watch?v=a59gmGkq_pw)
+ik heb 2 faforiete nummers de tweede is: [BASS](https://www.youtube.com/watch?v=0t2tjNqGyJI)
 
 
 
