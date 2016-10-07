@@ -42,10 +42,6 @@ Aanvallen!!!
 
 
 
-
-
-
-
 #Tot ziens
 
 
