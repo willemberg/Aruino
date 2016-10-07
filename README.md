@@ -30,10 +30,10 @@ en het schema
 
 
 
-dit is mijn type viedieo[minecraft](https://www.youtube.com/watch?v=DFIGhE4y78w)
+dit is mijn type viedieo [minecraft](https://www.youtube.com/watch?v=DFIGhE4y78w)
 
 
-
+en mijn vavoriete nummer [bass](https://www.youtube.com/watch?v=a59gmGkq_pw)
 
 
 
