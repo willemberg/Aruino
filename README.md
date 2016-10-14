@@ -19,7 +19,9 @@ Aanvallen!!!
 
 
 
+de lijst waar alemaal blokken op staan 
 
+![lijst](mine.png)
 
 #dit is mijn type viedieo [minecraft](https://www.youtube.com/watch?v=DFIGhE4y78w)
 
