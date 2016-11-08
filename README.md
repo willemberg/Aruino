@@ -39,7 +39,7 @@ de lijst waar alemaal blokken op staan
 
 
 
-wil je ook minecraft hebben klik op [download minecraft](MinecraftInstaller.msi)
+wil je ook minecraft hebben klik op [download minecraft](https://minecraft.net/nl/download/?ref=bm)
 
 
 
